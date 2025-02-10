@@ -11,3 +11,7 @@ Command has most general and most level arch.
 Command has ultimate word arch.
 
 Command has most general and most level word arch.
+
+Command has ultimate word count.
+
+Command has most general and most level word count.

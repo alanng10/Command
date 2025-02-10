@@ -3,3 +3,7 @@
 Command is ultimate command.
 
 Command is most general and most level command.
+
+Command has ultimate arch.
+
+Command has most general and most level arch.

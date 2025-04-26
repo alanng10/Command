@@ -53,3 +53,5 @@ Command has park word arch.
 Command has park word count.
 
 Command has park valid char list.
+
+Command has major.

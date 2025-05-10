@@ -48,6 +48,10 @@ Command has park kind arch marry.
 
 Command has park kind arch land.
 
+Command has park mark.
+
+Command has park cross.
+
 Command has park word arch.
 
 Command has park word count.
